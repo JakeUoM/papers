@@ -2,3 +2,6 @@ Authors:
 H. Wang
 Title:
 Measurements of secondary organic aerosol
+
+Introdution:
+In this paper we present measurements of aerosol particles made over forests in west Africa.
