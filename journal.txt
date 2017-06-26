@@ -21,3 +21,6 @@ xxoo
 
 Conclusions:
 ooxx
+
+Figures:
+This is a draft, so all the figures come the the end of the paper.
