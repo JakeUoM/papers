@@ -1,7 +1,8 @@
 Authors:
 H. Wang
+J. Bloggs
 Title:
-Measurements of secondary organic aerosol
+Model-Measurements intercomparison of secondary organic aerosol
 
 Introdution:
 In this paper we present measurements of aerosol particles made over forests in west Africa.
