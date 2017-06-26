@@ -5,3 +5,4 @@ Measurements of secondary organic aerosol
 
 Introdution:
 In this paper we present measurements of aerosol particles made over forests in west Africa.
+Chemical composition and mass concentrations were measured using AMS (Allen et al 2004).
